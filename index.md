@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to cy's ideal world
 
-You can use the [editor on GitHub](https://github.com/UYDEee/uydeee.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Here i introduce my easy code and easy life.
+
+### PART ONE
+
+Here is an easy <a href="easyWeb/test.html">web</a>. 
+
 
